@@ -5,15 +5,16 @@
 }
 
 .labBox{
-    max-width: 600px;
+    max-width: 200px;
     max-height: 200px;
     margin : 10px auto;
     overflow: hidden;
     border:1px solid black;
-
 }
 
 .thumbnail{
+
+    float:right;
 
 
 }
